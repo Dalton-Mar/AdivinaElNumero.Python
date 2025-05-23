@@ -30,7 +30,7 @@ def adivina_el_numero():
          print("por favor ingresa un numero valido")
 
     if intentos_restantes == 0:
-        print(f"\n Tes has quedado sin intentos.el numero secreto era {numero_secreto}. mejor suerte la proxima vez!")
+        print(f"\n Te has quedado sin intentos.el numero secreto era {numero_secreto}. mejor suerte la proxima vez!")
 
 adivina_el_numero()
 
